@@ -1,6 +1,6 @@
 # TshivhidzoMakeup
 
-I developed this website for one my my family members. This is a website which includes a price list of the family member's business.
+I developed this website for one my family members. This is a website for a price list of the family member's business.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
 
